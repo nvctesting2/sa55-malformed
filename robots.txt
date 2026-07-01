@@ -1,11 +1,12 @@
 User-agent: GPTBot
-Disallow /
+Disallow /private/
 
-User-agent ClaudeBot
+User-agent  ClaudeBot
 Disallow: /
 
 User-agent: PerplexityBot
-   Disallow: /
+  Disallow: /
 
 User-agent: xAI-Bot
-Disallow: /
+Disallow: /secret/
+Allow: /
